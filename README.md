@@ -1,4 +1,4 @@
-Python Code Quality and Static Analysis
+Python Code Quality and Static Analysis  \n
 -- Overview--
 
 This project demonstrates code quality improvement and static analysis using industry-grade Python tools such as Pylint, Flake8, and Bandit.
