@@ -15,15 +15,7 @@ Pylint	Checks code quality, style, and programming errors
 Flake8	Detects syntax errors and enforces PEP8 compliance
 Bandit	Scans for common security vulnerabilities in Python code
 
-🏗️ Project Structure
-PES1UG23AM330_LAB5/
-├── inventory_system.py              # Original unoptimized code
-├── cleaned_inventory_system.py      # Optimized version after analysis
-├── reports/
-│   ├── pylint_report.txt
-│   ├── flake8_report.txt
-│   ├── bandit_report.txt
-└── README.md
+
 
 ⚙️ Running the Analysis Locally
 1. Install the tools
