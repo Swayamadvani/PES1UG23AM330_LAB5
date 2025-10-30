@@ -1,4 +1,4 @@
-Python Code Quality and Static Analysis  
+PYTHON CODE QUALITY AND STATIC ANALYSIS
 
 -- Overview--
 
@@ -35,6 +35,8 @@ Code is fully compliant with PEP8 and free from common vulnerabilities.
 
 👨‍💻 Author
 Name: Swayam Advani
-USN: PES1UG23AM330
+
+SRN: PES1UG23AM330
+
 Course: AIML
-Lab: Python Programming Lab – Lab 5
+
